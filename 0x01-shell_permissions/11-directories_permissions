@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 755 - type d
+chmod u+rwx,g+rx,o+rx - type d
