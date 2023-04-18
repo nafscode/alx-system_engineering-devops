@@ -12,6 +12,8 @@ Write a script that prints “Hello, World”, followed by a new line to the sta
 
 
 [4-lastlines](https://github.com/nafscode/alx-system_engineering-devops/blob/master/0x02-shell_redirections/4-lastlines): Display the last 10 lines of /etc/passwd
+
+
 [5-firstlines](https://github.com/nafscode/alx-system_engineering-devops/blob/master/0x02-shell_redirections/5-firstlines): Display the first 10 lines of /etc/passwd
 
 
